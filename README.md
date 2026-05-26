@@ -1,6 +1,6 @@
-# VIDGET — Offline Video Downloader for Termux 🎬
+# termux_mp4 — Offline Video Downloader for Termux 🎬
 
-VIDGET is a lightweight Android Termux project that provides an easy interface for downloading and managing offline videos from supported sources.
+termux_mp4 is a lightweight Android Termux project that provides an easy interface for downloading and managing offline videos from supported sources.
 
 No Root Required.
 
@@ -34,8 +34,8 @@ pkg update && pkg upgrade -y
 Clone repository:
 
 ```bash
-git clone https://github.com/techvyana20-oss/VIDGET.git
-cd VIDGET
+git clone https://github.com/techvyana20-oss/termux_mp4.git
+cd termux_mp4
 ```
 
 Run installer:
@@ -228,7 +228,7 @@ wget URL
 # Project Structure
 
 ```text
-VIDGET-Termux/
+termux_mp4/
 │
 ├── install.sh
 ├── vidget.sh
