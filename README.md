@@ -34,8 +34,8 @@ pkg update && pkg upgrade -y
 Clone repository:
 
 ```bash
-git clone https://github.com/techvyana20-oss/termux_mp4.git
-cd termux_mp4
+git clone https://github.com/techvyana20-oss/VIDGET.git
+cd VIDGET
 ```
 
 Run installer:
