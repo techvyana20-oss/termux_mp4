@@ -34,7 +34,7 @@ pkg update && pkg upgrade -y
 Clone repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/VIDGET-Termux.git
+git clone https://github.com/techvyana20-oss/termux_mp4.git
 cd VIDGET-Termux
 ```
 
