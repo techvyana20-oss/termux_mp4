@@ -35,7 +35,7 @@ Clone repository:
 
 ```bash
 git clone https://github.com/techvyana20-oss/termux_mp4.git
-cd VIDGET-Termux
+cd termux_mp4
 ```
 
 Run installer:
